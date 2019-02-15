@@ -9,7 +9,7 @@ layout: tutorial
 
 <img src="https://images.unsplash.com/photo-1550084281-5c4f2797dcf1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" />
 
-<img src="../images/technical-overview-apostrophe-on-the-page.svg" />
+<img src="../../images/technical-overview-apostrophe-on-the-page.svg" />
 
 An image: ![gras](https://images.unsplash.com/photo-1550084281-5c4f2797dcf1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
