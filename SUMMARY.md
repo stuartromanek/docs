@@ -100,8 +100,5 @@
 * [Nunjucks Filters](nunjucks-filters.md)
 * [Glossary](glossary.md)
 * [More on Modules](more-modules.md)
-* [More on Modules](more-modules.md)
 * [Core Browser](core-browser.md)
 * [Core Server](core-server.md)
-* [Core Server](core-server.md)
-    
