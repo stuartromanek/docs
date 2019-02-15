@@ -1,4 +1,4 @@
-## Inherits from: [apostrophe-module](../apostrophe-module/index.md)
+## Inherits from: [apostrophe-module](./modules/apostrophe-module/index.md)
 ### `apos.adminBar`
 The admin bar module implements Apostrophe's admin bar at the top of the screen. Any module
 can register a button (or more than one) for this bar by calling the `add` method of this
