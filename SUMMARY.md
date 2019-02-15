@@ -60,19 +60,6 @@
         * [How do I create a 404 Not Found page?](tutorials/getting-started/deployment.md)
     * Technical Overviews
         * [Technical overview: 30,000 feet](technical-overviews/technical-overview.md)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
-            * [Technology Choices](technical-overviews/technical-overview.md#technology-choices)
 
         
 * [Core Browser](core-browser.md)
