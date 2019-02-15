@@ -1,0 +1,5 @@
+#!/bin/sh
+
+habit &&
+open _site/index.html
+

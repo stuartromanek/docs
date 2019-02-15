@@ -1,0 +1,11 @@
+#!/bin/bash
+
+node _head-meta-generator/app &&
+(
+  cd _api-reference-generator/ &&
+  rm -rf ../modules/ &&
+  node app apostrophe:generation &&
+  node app documentation:generate
+) &&
+habit &&
+echo "Done!"
