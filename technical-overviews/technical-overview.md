@@ -25,7 +25,7 @@ Each "doc" might be a *page*, such as the "home" or "about" page of a website, o
 
 The "global doc," which is always available to templates as `data.global`, is reserved for content you'll want almost every time you render a page. It is the right place for shared footers and site-wide copyright notices, for instance.
 
-<img src="../images/technical-overview-apostrophe-doc-types.svg" />
+<img src="../images/technical-overview-apostrophe-doc-types.svg" width='960px' height='640px' />
 
 Each doc might contain a variety of content: rich text, images, videos and even "blog widgets" that display blog posts. Each unit of content is called a *widget*. Widgets can stand by themselves, in which case they are called *singletons*. Just as often however, widgets are grouped into *areas* in which the user is free to keep adding new widgets of various types.  Frontend developers decide which widgets are allowed in each area and code their templates accordingly.
 
