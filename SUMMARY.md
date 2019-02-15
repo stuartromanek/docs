@@ -64,6 +64,7 @@
         
 * [Core Browser](core-browser.md)
 * [Core Server](core-server.md)
+* [Core Server](core-server.md)
     
 ## A second page group
 
