@@ -7,6 +7,10 @@ layout: tutorial
 
 ### System requirements
 
+<img src="https://images.unsplash.com/photo-1550129460-d47c2040f9df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80" />
+
+An image: ![gras](https://images.unsplash.com/photo-1550129460-d47c2040f9df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80)
+
 In our experience a virtual machine with 2GB of RAM and at least 20GB of free storage space is appropriate to comfortably run most Apostrophe sites. MongoDB requires that a minimum of 5GB of free disk space be maintained at all times. Apostrophe's node process and MongoDB will complete for scarce memory on a server with 1GB of RAM.
 
 *RAM requirements may be a bit lower with Apostrophe 2.0.0 because it has fewer large npm dependencies.*
