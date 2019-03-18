@@ -37,11 +37,11 @@
 * [Modules](modules/index.md)
     * [apostrophe-any-page-manager](modules/apostrophe-any-page-manager/index.md)
         * Server
-            [apostrophe-any-page-manager-cursor](modules/apostrophe-any-page-manager/server-apostrophe-any-page-manager-cursor.md)
+            * [apostrophe-any-page-manager-cursor](modules/apostrophe-any-page-manager/server-apostrophe-any-page-manager-cursor.md)
         * Browser
-            * [apostrophe-any-page-manager-chooser](modules/apostrophe-any-page-manager/apostrophe-any-page-manager-chooser.md)
-            * [apostrophe-any-page-manager-relationship](modules/apostrophe-any-page-manager/apostrophe-any-page-manager-relationship.md)
-            * [apostrophe-any-page-manager](modules/apostrophe-any-page-manager/apostrophe-any-page-manager-manager.md)
+            * [apostrophe-any-page-manager-chooser](modules/apostrophe-any-page-manager/browser-apostrophe-any-page-manager-chooser.md)
+            * [apostrophe-any-page-manager-relationship](modules/apostrophe-any-page-manager/browser-apostrophe-any-page-manager-relationship.md)
+            * [apostrophe-any-page-manager](modules/apostrophe-any-page-manager/browser-apostrophe-any-page-manager-manager.md)
 
 * [Promise Events](events.md)
 * [Nunjucks Filters](nunjucks-filters.md)
