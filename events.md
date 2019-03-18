@@ -95,7 +95,7 @@ Invoked when an `apos` object is being shut down. Your handlers should clean up 
 
 Invoked when all of Apostrophe's modules, including core modules, npm modules and your own project-level modules, have been completely constructed. Use this listener to avoid "chicken and egg" problems where your module has to wait for another one to be ready. 
 
-### `apostrophe:afterInit`
+[### `apostrophe:afterInit`](#code-apostrophe-after-init-code)
 
 Invoked after all `apostrophe:modulesReady` handlers have completed. **Note that it is too late to add Express routes at this point.** Express routes should be added no later than `apostrophe:modulesReady` and are usually added in your module's `afterConstruct` function. (Hint: remember, the route isn't actually executed until requests begin arriving, which will be safely after everything has initialized. You can access resources inside a route that don't yet exist when your module is first initializing.)
 
