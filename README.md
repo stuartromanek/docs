@@ -13,7 +13,7 @@ Our technical overviews are ideal for pros who want to understand our decisions 
 Our module reference provides complete coverage of Apostrophe's modules and their related object types. Each module provides a particular feature, often including both front and back end code.
 
 ## Promise Events
-Need to hook into the life cycle of Apostrophe's documents and pages? Apostrophe emits "promise events" when documents are saved, when pages are rendered, and more.
+Need to hook into the life cycle of Apostrophe's documents and pages? Apostrophe emits "promise events" when documents are saved, when pages are rendered, and more. 
 [Read the Promise Events Reference](events.md)
 
 ## Nunjucks Filters
