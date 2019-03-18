@@ -7,7 +7,7 @@ description: >-
 
 # ApostropheCMS is a rapid website framework written in Node.js
 
-{% embed url="http://apostrophe-website.punkave.org/videos/edit-in-context.mp4" caption="ApostropheCMS as an editor" %}
+![ApostropheCMS as an editor](.gitbook/assets/ezgif.com-video-to-gif.gif)
 
 ## Tutorials
 
