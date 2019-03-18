@@ -35,8 +35,8 @@
 
 ## More
 * [Modules](modules/index.md)
-* [apostrophe-admin-bar](modules/apostrophe-admin-bar/index.md)
-    * [Browser](modules/apostrophe-admin-bar/browser.md)
+    * [apostrophe-admin-bar](modules/apostrophe-admin-bar/index.md)
+        * [Browser](modules/apostrophe-admin-bar/browser.md)
     * [apostrophe-any-page-manager](modules/apostrophe-any-page-manager/index.md)
         * Server
             * [apostrophe-any-page-manager-cursor](modules/apostrophe-any-page-manager/server-apostrophe-any-page-manager-cursor.md)
