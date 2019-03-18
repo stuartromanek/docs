@@ -1,5 +1,7 @@
 # ApostropheCMS is a rapid website framework written in Node.js
 
+https://www.youtube.com/watch?v=GRvLsvnJgGE
+
 ## Tutorials
 Our tutorials cover everything you need to know to get started as an Apostrophe developer. Everyone should start here. Our tutorials are progressive, so you can learn as you go.
 [The Getting Started tutorial is a good place to.. get.. started](tutorial-sets/getting-started/setting-up-your-environment.md)
