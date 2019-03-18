@@ -46,8 +46,6 @@
             * [apostrophe-any-page-manager](modules/apostrophe-any-page-manager/browser-apostrophe-any-page-manager.md)
 
 * [Promise Events](events.md)
-    * [Relationship to the older callAll feature](events.md#relationship-to-the-older-code-call-all-code-feature)
-    * [apostrophe:afterInit](events.md#relationship-to-the-older-callall-feature)
 * [Nunjucks Filters](nunjucks-filters.md)
 * [Glossary](glossary.md)
 * [More on Modules](more-modules.md)
