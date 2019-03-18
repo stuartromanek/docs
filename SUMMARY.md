@@ -47,7 +47,7 @@
 
 * [Promise Events](events.md)
     * [Relationship to the older callAll feature](events.md#relationship-to-the-older-code-call-all-code-feature)
-    * [apostrophe:afterInit](events.md#code-apostrophe-after-init-code)
+    * [apostrophe:afterInit](events.md#relationship-to-the-older-callall-feature)
 * [Nunjucks Filters](nunjucks-filters.md)
 * [Glossary](glossary.md)
 * [More on Modules](more-modules.md)
