@@ -1,6 +1,22 @@
 # apostrophe-admin-bar
 
-## Inherits from: [apostrophe-module](https://github.com/stuartromanek/docs/tree/6a73b9056b57aa8ce91676a2c00a8e803a50a2eb/modules/apostrophe-admin-bar/modules/apostrophe-module/index.md)
+{% tabs %}
+{% tab title="First Tab" %}
+jlkewfhljhewf
+
+qwljqewfbj
+
+'qwf
+{% endtab %}
+
+{% tab title="Second Tab" %}
+wqkldnklwndlk
+
+qwk;dnlqjkwnd
+{% endtab %}
+{% endtabs %}
+
+## Inherits from cool thing: [apostrophe-module](https://github.com/stuartromanek/docs/tree/6a73b9056b57aa8ce91676a2c00a8e803a50a2eb/modules/apostrophe-admin-bar/modules/apostrophe-module/index.md)
 
 ### `apos.adminBar`
 
