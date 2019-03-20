@@ -16,6 +16,38 @@ qwk;dnlqjkwnd
 {% endtab %}
 {% endtabs %}
 
+{% api-method method="put" host="http://" path="" %}
+{% api-method-summary %}
+kjbjkbkjb
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
 ## Inherits from cool thing: [apostrophe-module](https://github.com/stuartromanek/docs/tree/6a73b9056b57aa8ce91676a2c00a8e803a50a2eb/modules/apostrophe-admin-bar/modules/apostrophe-module/index.md)
 
 ### `apos.adminBar`
